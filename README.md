@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  [![Debora's GitHub Banner](./assets/bannergithub.png)]
+  [![Debora's GitHub Banner](bannergithub.png)]
 </div>
 
 <p align="center">
@@ -19,18 +19,7 @@
 
 ## 🛠️ &nbsp; About me
 
-I've been working with data analisys for more than 5 years now. I've got experience with R and Python language in a variety of enviroments such as healthcare, pharmaceltical companies etc.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I've been working with data analisys for more than 7 years now. 
 
 </div>
 
