@@ -6,9 +6,9 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   [![Debora's GitHub Banner](bannergithub.png)]
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeboraOliveir&color=blueviolet" alt="Profile views" />
